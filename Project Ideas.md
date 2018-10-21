@@ -8,7 +8,7 @@ The goal of this project is to predict if a patient would be readmitted to the h
 
 ### Data set
 
-The data has been retrieved from the Cerner database, now available in the Machine Learning Repository, it represents clinical data from 1999-2008. The database has over 100,000 diabetes inpatient encounters (diabetes was a diagnosis on these encounters). Information about laboratory tests and the medications that were administered are also available. Further, we have information about the admission type, discharge disposition, and demographic information such as race, age, and gender. Data can be seen [here](https://archive.ics.uci.edu/ml/datasets/diabetes%2B130-us%2Bhospitals%2Bfor%2Byears%2B1999-2008).
+The data has been retrieved from the Cerner database, now available in the Machine Learning Repository, it represents clinical data from 1999-2008. The database has over 100,000 diabetes inpatient encounters (diabetes was a diagnosis on these encounters). Information about laboratory tests and the medications that were administered are also available. Further, we have information about the admission type, discharge disposition, and demographic information such as race, age, and gender. Data can be seen on the [Machine Learning Repository Website](https://archive.ics.uci.edu/ml/datasets/diabetes%2B130-us%2Bhospitals%2Bfor%2Byears%2B1999-2008).
 
 ## Project-2: Inclusive Images Challenge - Kaggle
 
@@ -18,9 +18,9 @@ The goal of this project is to predict the geographical location based on an ima
 
 ### Data set
 
-The data is a subset of images (pixels), bounding boxes as validation (41.6K images) and test (125K images) sets. It contains 600 object classes and 1.7 million training images. There are also .csv files containing machine and human generated labels for these labels. The data can be found [here](https://www.kaggle.com/c/inclusive-images-challenge#Data-Download-&-Getting-Started).
+The data is a subset of images (pixels), bounding boxes as validation (41.6K images) and test (125K images) sets. It contains 600 object classes and 1.7 million training images. There are also .csv files containing machine and human generated labels for these labels. The data can be found on the [Kaggle Website](https://www.kaggle.com/c/inclusive-images-challenge#Data-Download-&-Getting-Started).
 
-## Project-3: 
+## Project-3: Chicago Crime Rate
 
 ### Problem
 
