@@ -28,4 +28,4 @@ Chicago is a city with highest crime rates in the US. City of Chicago has made c
 
 ### Data set
 
-The data has 6.7 million instances and 22 features. The data can be directly seen on the City of Chicago website, click [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data).
+The data has 6.7 million instances and 22 features. The data can be directly seen on the [City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data) website.
