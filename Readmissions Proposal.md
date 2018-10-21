@@ -20,6 +20,7 @@ The main goal of this project is to predict if a patient would be readmitted to 
 2.	Medical specialty can help stratify the risk of readmissions
 3.	Complexity of the episode determined by factors such as number of lab procedures, number of procedures, number of       outpatient/inpatient/emergency visits help predict readmissions
 4.	Number of times diabetes medication changes (including if the dose goes up or remains steady) may increase the chance of a readmission
+5.  Try to understand how A1C test result plays its role 
 
 
 ### Approach
